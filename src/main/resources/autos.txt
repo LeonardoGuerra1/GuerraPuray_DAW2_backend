@@ -1,0 +1,4 @@
+1;ASR-12G1;KIA;Sportage;5;26000;Negro
+2;FAD-12H4;Toyota;Rav;5;26000;Negro
+3;QUT-24Q7;Chevrolet;Sail;5;46000;Gris
+4;NSQ-94Z1;Nissan;X-trail;5;90000;Gris-metal
